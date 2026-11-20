@@ -112,7 +112,7 @@ T["es"] = dict(
     wa_text="Hola Paulina, vi tu presentación y me gustaría contactarte.",
     ct_cds="Conocé Carente de Sentido",
     foot="Relaciones Internacionales · Comunicación · Santa Fe, Argentina",
-    photo_alt="Iniciales de Paulina Cugini",
+    photo_alt="Retrato de Paulina Cugini",
 )
 
 T["en"] = dict(
@@ -223,7 +223,7 @@ T["en"] = dict(
     wa_text="Hi Paulina, I saw your presentation and would like to get in touch.",
     ct_cds="About Carente de Sentido",
     foot="International Relations · Communication · Santa Fe, Argentina",
-    photo_alt="Paulina Cugini's initials",
+    photo_alt="Portrait of Paulina Cugini",
 )
 
 T["fr"] = dict(
@@ -334,7 +334,7 @@ T["fr"] = dict(
     wa_text="Bonjour Paulina, j'ai vu votre présentation et j'aimerais vous contacter.",
     ct_cds="Découvrir Carente de Sentido",
     foot="Relations internationales · Communication · Santa Fe, Argentine",
-    photo_alt="Initiales de Paulina Cugini",
+    photo_alt="Portrait de Paulina Cugini",
 )
 
 T["pt"] = dict(
@@ -445,5 +445,5 @@ T["pt"] = dict(
     wa_text="Olá Paulina, vi sua apresentação e gostaria de entrar em contato.",
     ct_cds="Conheça a Carente de Sentido",
     foot="Relações Internacionais · Comunicação · Santa Fe, Argentina",
-    photo_alt="Iniciais de Paulina Cugini",
+    photo_alt="Retrato de Paulina Cugini",
 )

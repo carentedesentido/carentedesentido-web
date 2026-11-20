@@ -167,10 +167,7 @@ def page(code):
 </div>
 </div>
 <div style="flex:0 1 360px;min-width:0;margin:0 auto">
-<!-- FOTO: reemplazar este bloque por <img src="/img/paulina.jpg" ...> -->
-<div role="img" aria-label="{t['photo_alt']}" style="aspect-ratio:4/5;width:100%;max-width:360px;background:#27282D;border:1.5px solid #E8A9C4;display:flex;align-items:center;justify-content:center">
-<span style="font-family:'Fraunces',serif;font-style:italic;font-size:120px;color:#E8A9C4;line-height:1">PC</span>
-</div>
+<img src="/img/paulina.jpg" alt="{t['photo_alt']}" width="1080" height="1350" fetchpriority="high" style="aspect-ratio:4/5;width:100%;max-width:360px;height:auto;object-fit:cover;border:1.5px solid #E8A9C4">
 </div>
 </div>
 </section>
