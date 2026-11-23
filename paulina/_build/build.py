@@ -160,7 +160,6 @@ def page(code):
 <p class="eyebrow" style="margin:0">{t['eyebrow']}</p>
 <h1 style="margin:0;font-size:clamp(42px,6.4vw,84px);line-height:1.02;font-weight:700;letter-spacing:-2px">{t['h1a']} <em style="font-family:'Fraunces',serif;font-weight:400;color:#E8A9C4">{t['h1b']}</em></h1>
 <p style="margin:0;font-size:clamp(18px,2vw,21px);line-height:1.55;color:#D9D8D3;max-width:640px">{t['intro']}</p>
-<p class="pitch">{t['pitch']}</p>
 <div style="display:flex;flex-wrap:wrap;gap:14px;margin-top:6px">
 <a class="btn pink" href="#contacto">{t['b_contact']}</a>
 <a class="btn line" href="{cv_main}" download style="color:#F5F4F0">{DL}{t['b_cv']}</a>
